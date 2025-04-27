@@ -8,7 +8,7 @@ More features and improvements coming soon. Please support the app here: https:/
 ## Download & Install
 > dropp is currently available for Windows only.
 
-1. Go to Releases and download the .exe installer.
+1. Go to [Releases](https://github.com/axelkennedal/dropp/releases) and download the .exe installer for the latest version.
 2. Double-click the .exe and follow the instructions in the installer.
 3. Done, enjoy :)
 
@@ -31,3 +31,13 @@ Now and then you might want to check here again for new updates, there's a link 
 ![image](https://github.com/user-attachments/assets/8beee7eb-0ba3-4508-8ccb-5632230a76ee)
 ![image](https://github.com/user-attachments/assets/d0d6e3d8-0e52-4057-ba50-8ee8f575f050)
 ![image](https://github.com/user-attachments/assets/a0d3ce72-3580-4c73-80a1-58b8ee20d3f1)
+
+# Feedback, bugs and feature requests
+If you want to submit feedback, found a bug or want to request a feature:
+* Check if there already is a related [issue](https://github.com/axelkennedal/dropp/issues)
+  * If there is, add a comment to it.
+  * If there isn't, create a [new issue](https://github.com/axelkennedal/dropp/issues/new)
+
+If you just want to leave some positive feedback and make my day, you can attach a message to a donation at https://buymeacoffee.com/axelkennedal.
+ 
+dropp is closed source.
