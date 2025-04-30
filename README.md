@@ -1,7 +1,7 @@
 
 ![versedLogoGray](https://github.com/user-attachments/assets/22e8c423-d786-4758-ac6a-889cb5101aed)
 
-**A simple music player designed for those who prefer offline listening.**
+**Versed is a simple music player designed for those who prefer offline listening.**
 Effortlessly manage your local music library, featuring thousands of MP3s with instant search across multiple folders. Vibe to your music with a visualizer in the style of DubstepGutter/Trap Nation and switch between dark mode and light mode.
 
 More features and improvements coming soon. Please support the app here: https://buymeacoffee.com/axelkennedal
