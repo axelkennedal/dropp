@@ -1,4 +1,5 @@
-![dropp-github-subtext](https://github.com/user-attachments/assets/9ce9a4c5-d0d7-4a52-8e07-632a2ed45f0c)
+
+![versedLogoGray](https://github.com/user-attachments/assets/22e8c423-d786-4758-ac6a-889cb5101aed)
 
 **A simple music player designed for those who prefer offline listening.**
 Effortlessly manage your local music library, featuring thousands of MP3s with instant search across multiple folders. Vibe to your music with a visualizer in the style of DubstepGutter/Trap Nation and switch between dark mode and light mode.
@@ -6,13 +7,13 @@ Effortlessly manage your local music library, featuring thousands of MP3s with i
 More features and improvements coming soon. Please support the app here: https://buymeacoffee.com/axelkennedal
 
 # Download & Install
-> dropp is currently available for Windows only.
+> Versed is currently available for Windows only.
 
-1. Go to [Releases](https://github.com/axelkennedal/dropp/releases) and download the .exe installer for the latest version.
+1. Go to [Releases](https://github.com/axelkennedal/versed/releases) and download the .exe installer for the latest version.
 2. Double-click the .exe and follow the instructions in the installer.
 3. Done, enjoy :)
 
-Now and then you might want to check here again for new updates, there's a link in the Settings view in dropp.
+Now and then you might want to check here again for new updates, there's a link in the Settings view in Versed.
 
 # Features
   * MP3 playback
@@ -20,7 +21,7 @@ Now and then you might want to check here again for new updates, there's a link 
   * Album cover with visualizer
   * Import music from as many folders as you like
   * Supports having thousands of songs in your library
-  * Re-index your existing folders or remove them from dropp
+  * Re-index your existing folders or remove them from Versed
   * Setting for Dark mode/Light mode
   * Setting to enable/disable the visualizer
 ## Songs list
@@ -35,10 +36,10 @@ Now and then you might want to check here again for new updates, there's a link 
 
 # Feedback, bugs and feature requests
 If you want to submit feedback, found a bug or want to request a feature:
-* Check if there already is a related [issue](https://github.com/axelkennedal/dropp/issues)
+* Check if there already is a related [issue](https://github.com/axelkennedal/versed/issues)
   * If there is, add a comment to it.
-  * If there isn't, create a [new issue](https://github.com/axelkennedal/dropp/issues/new)
+  * If there isn't, create a [new issue](https://github.com/axelkennedal/versed/issues/new)
 
 If you just want to leave some positive feedback and make my day, you can attach a message to a donation at https://buymeacoffee.com/axelkennedal.
  
-dropp is closed source.
+Versed is closed source.
