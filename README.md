@@ -30,9 +30,9 @@ Now and then you might want to check here again for new updates, there's a link 
   * Filter by genre
 
 # Screenshots
-![image](https://github.com/user-attachments/assets/8beee7eb-0ba3-4508-8ccb-5632230a76ee)
-![image](https://github.com/user-attachments/assets/d0d6e3d8-0e52-4057-ba50-8ee8f575f050)
-![image](https://github.com/user-attachments/assets/a0d3ce72-3580-4c73-80a1-58b8ee20d3f1)
+![image](https://github.com/user-attachments/assets/ca73274f-bf0d-461c-bc8f-6bf07e4c1f91)
+![image](https://github.com/user-attachments/assets/49de4f08-2168-40a6-8d32-cd3893127add)
+![image](https://github.com/user-attachments/assets/2d9561f9-5ab6-40f3-8985-8f7a56247412)
 
 # Feedback, bugs and feature requests
 If you want to submit feedback, found a bug or want to request a feature:
