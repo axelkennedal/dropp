@@ -13,7 +13,10 @@ More features and improvements coming soon. Please support the app here: https:/
 2. Double-click the .exe and follow the instructions in the installer.
 3. Done, enjoy :)
 
+## Updates
 Now and then you might want to check here again for new updates, there's a link in the Settings view in Versed.
+
+To update, simply download the installer and install as if installing for the first time.
 
 # Features
   * MP3 playback
